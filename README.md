@@ -1,15 +1,15 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://i.imgur.com/8LvPs7R.png" width="600"></a></p>
 
 ## Overview 
-Funkcionalnost spletne aplikacije:
+Functionality of the web application:
 
 - Laravel/PHP Endpoint API.
-- Laravel Scuntum overjanje uporabnikov (token generator / metoda za proces ni vkljucena). <img src="https://i.imgur.com/XroWmdg.png" width="400">
-- Front-end z prikazom vseh narocil (orders) GET request deluje z klikom na "hamburger-icon" levo zgoraj v kotu. <img src="https://i.imgur.com/IDhGLwP.png" width="400">
-- Sprejmi gumb, ki poslje PUT request za spremembo "Status"-a narocila (glej konzolo / console.log).<img src="https://i.imgur.com/1TQw2BH.png" width="400">
-- V kolikor je izgubljena povezava z API-jom se pojavi opozorilo na to (glej konzolo // console.log). <img src="https://i.imgur.com/bmKioDJ.png" width="400">
+- Laravel Scuntum user authentication (token generator / process method not included).
+- The front part showing all orders (orders) GET request works by clicking on the "hamburger-icon" in the top left corner.
+- Accept button that later PUT request to change "Status" specified (see console / console.log).
+- If the connection to the API is lost, a warning about this appears (see console // console.log).
+- Database Type = MySQL/phpmyadmin (XAMPP) -> testingapi.sql
 
-Database type = MySQL/phpmyadmin (XAMPP) -> testingapi.sql
 
 
 
