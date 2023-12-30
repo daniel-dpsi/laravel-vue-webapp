@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://i.imgur.com/8LvPs7R.png" width="600"></a></p>
 
-## Overview 
+## Order Processing Web Application | Simple order processing panel (Personal Project)
 Functionality of the web application:
 
 - Laravel/PHP Endpoint API.
